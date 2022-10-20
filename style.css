@@ -98,3 +98,7 @@ input {
     font-size: 58px;
     color: #FFFFFF;
 }
+
+::placeholder {
+    color: #FFFFFF;
+}
